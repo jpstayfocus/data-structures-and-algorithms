@@ -9,4 +9,4 @@ Introduction to algorithm design and analysis. Graph algorithms, greedy algorith
 6) Hash tables and (maybe) skip lists 
 7) Graphs
 
-# Ressources: Data Structures and Algorithms in C++ (4th Edition) by Mark Allen Weiss
+### Ressources: Data Structures and Algorithms in C++ (4th Edition) by Mark Allen Weiss
