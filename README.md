@@ -10,4 +10,4 @@ Introduction to algorithm design and analysis. Graph algorithms, greedy algorith
 7) Graphs
 
 ### Ressources: Data Structures and Algorithms in C++ (4th Edition) by Mark Allen Weiss
-universal reference in c++ [here] (https://moodle.ubishops.ca/mod/url/view.php?id=161950)
+
